@@ -45,8 +45,8 @@ MongoDB instance (local or MongoDB Atlas)
 
 📁 1. Clone the Repository
 
-git clone https://github.com/sahilmakadi/financial-dashboard.git
-cd financial-dashboard
+git clone https://github.com/sahilmakadi/financial-dashboard-fullstack.git
+
 
 ⚙️ 2. Setup Backend
 
